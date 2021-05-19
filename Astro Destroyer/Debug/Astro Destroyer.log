@@ -1,2 +1,15 @@
-﻿  Astro Destroyer.cpp
-  Astro Destroyer.vcxproj -> C:\Users\rj\Documents\University\GamesProg\AstroDestroyer\Astro Destroyer\Debug\Astro Destroyer.exe
+﻿  MainGameLoop.cpp
+C:\Users\jones_ft\OneDrive\Documents\GitHub\Astro-Destroyer\Astro Destroyer\MainGameLoop.cpp(134,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jones_ft\OneDrive\Documents\GitHub\Astro-Destroyer\Astro Destroyer\MainGameLoop.cpp(136,92): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jones_ft\OneDrive\Documents\GitHub\Astro-Destroyer\Astro Destroyer\MainGameLoop.cpp(136,79): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jones_ft\OneDrive\Documents\GitHub\Astro-Destroyer\Astro Destroyer\MainGameLoop.cpp(141,27): warning C4018: '<': signed/unsigned mismatch
+  Objects.cpp
+C:\Users\jones_ft\OneDrive\Documents\GitHub\Astro-Destroyer\Astro Destroyer\Objects.cpp(29,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jones_ft\OneDrive\Documents\GitHub\Astro-Destroyer\Astro Destroyer\Objects.cpp(30,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jones_ft\OneDrive\Documents\GitHub\Astro-Destroyer\Astro Destroyer\Objects.cpp(180,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jones_ft\OneDrive\Documents\GitHub\Astro-Destroyer\Astro Destroyer\Objects.cpp(181,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jones_ft\OneDrive\Documents\GitHub\Astro-Destroyer\Astro Destroyer\Objects.cpp(208,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jones_ft\OneDrive\Documents\GitHub\Astro-Destroyer\Astro Destroyer\Objects.cpp(233,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jones_ft\OneDrive\Documents\GitHub\Astro-Destroyer\Astro Destroyer\Objects.cpp(234,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Astro Destroyer.vcxproj -> C:\Users\jones_ft\OneDrive\Documents\GitHub\Astro-Destroyer\Debug\Astro Destroyer.exe
